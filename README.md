@@ -1,3 +1,5 @@
+## Contributeurs
+- [Samir Aimene](https://github.com/samir-aimene) — co-développeur (logique de combat, sauvegarde SQLite)
 # ArenaQuest-Python
 
 Prototype de jeu multijoueur en **Python** où les joueurs attaquent des ennemis, 
