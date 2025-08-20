@@ -5,7 +5,7 @@ import math
 import json
 import os
 
-# --------- Constantes de jeu ---------
+# ---------lll Constantes de jeu ---------
 BASE_MONSTER_HEALTH = 50 # Vie de base des monstres pour la vague 1
 
 app = Ursina()
@@ -742,3 +742,4 @@ def input(key):
     pass
 
 app.run()
+
